@@ -1,0 +1,143 @@
+.wrap{
+    width: 100%;
+}
+.header{
+    width: 1189px;
+    min-height: 100px;
+    margin: 0 auto;
+    border-bottom: 2px solid #f7ad3c;
+}
+/*logo����*/
+.header h1{
+    margin-top: 10px;
+}
+/*��������*/
+.nav>li{
+    float: left;
+    line-height: 95px;
+}
+.nav>li.active>a{
+    color: #f7ad3c;
+}
+.nav>li>a{
+    padding: 0 10px;
+    font-size: 30px;
+}
+/*banner����*/
+.banner{
+    width: 100%;
+}
+.banner_content{
+    width: 1189px;
+    margin: 0 auto;
+}
+/*页面主体部分*/
+.main{
+    width: 100%;
+}
+.main_center{
+    width: 1189px;
+    margin: 0 auto;
+}
+.main_center>ul{
+    width: 890px;
+    margin: 90px auto;
+}
+.main_center>ul>li>dl{
+    overflow: hidden;
+    margin-top: 30px;
+}
+.main_center>ul>li>dl>dd{
+    width: 500px;
+    line-height: 50px;
+    font-size: 30px;
+}
+.main_center>ul>li>dl>dt>img{
+    margin-top: 30px;
+}
+.main_center>ul>li>dl>dd>p{
+    text-align:justify;
+}
+.main_center>ul>li>dl>dd>p>a{
+    color: #f6ad3c;
+}
+.main_center>ul>li{
+    text-align: center;
+}
+.main_center>ul>li>a{
+    color: #8c8c8b;
+    font-size: 24px;
+}
+/*footer部分*/
+.footer{
+    width: 100%;
+}
+.footer_top{
+    width: 100%;
+    margin: 30px 0;
+}
+.footer_nav{
+    border-top: 3px solid #f6ad3c;
+    width: 1189px;
+    margin: 0px auto;
+    overflow: hidden;
+}
+.footer_nav>li{
+    margin-top: 30px;
+    float: left;
+    font-size: 30px;
+    text-align: center;
+}
+.footer_nav>li>a{
+    padding:0px 84px;
+    text-align: center;
+}
+.footer_middle{
+    width: 100%;
+    height: 250px;
+    background-color: #979797;
+}
+.footer_main{
+    width: 1189px;
+    margin: 0px auto;
+    overflow: hidden;
+}
+.footer_bottom{
+    margin: 0px auto;
+    width: 500px;
+    text-align: center;
+    color: #dadada;
+    font-size: 12px;
+    margin-top: 28px;
+}
+.footer_main>li{
+    float: left;
+    width: 378px;
+    height: 150px;
+    border-right: 1px dotted #dadada;
+    text-align: center;
+    color: #dadada;
+    margin-top:30px;
+}
+.footer_main>li.none{
+    border-right: 1px dotted transparent;
+}
+.footer_main>li>dl>dt{
+    font-size: 18px;
+    margin: 10px 0;
+}
+.footer_main>li>dl>dd>a{
+    margin: 8px 0;
+    display: inline-block;
+}
+.footer_img{
+    overflow: hidden;
+    margin-top: 30px;
+}
+.footer_img_left{
+    margin-left: 116px;
+    color: #dadada;
+}
+.footer_img_right{
+    margin-right: 85px;
+}

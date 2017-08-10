@@ -1,0 +1,278 @@
+.wrap{
+    width: 100%;
+}
+.header{
+    width: 1189px;
+    min-height: 100px;
+    margin: 0 auto;
+    border-bottom: 2px solid #f7ad3c;
+}
+/*logo部分*/
+.header h1{
+    margin-top: 10px;
+}
+/*导航部分*/
+.nav>li{
+    float: left;
+    line-height: 95px;
+}
+.nav>li.active>a{
+    color: #f7ad3c;
+}
+.nav>li>a{
+    padding: 0 28px;
+    font-size: 30px;
+}
+/*banner部分*/
+.banner{
+    width: 100%;
+    margin-top: 20px;
+}
+.banner>img{
+    width: 100%;
+}
+/*section部分*/
+.section{
+    width: 100%;
+}
+.section_center{
+    margin: 30px auto;
+    width: 1189px;
+    overflow: hidden;
+    text-align: center;
+}
+.section_center>h1{
+
+}
+.section_center>P{
+    float: left;
+    font-size: 48px;
+    color: #903a31;
+    margin: 0 138px;
+}
+.section_center>P>img{
+    vertical-align: middle;
+}
+/*页面主体内容部分*/
+.main{
+    width: 100%;
+    background: url("../images/list2_bg.png") no-repeat;
+    background-size: cover;
+    height: 1448px;
+}
+.main_center{
+    width: 1760px;
+    margin: 0 auto;
+}
+.main_list{
+    width: 100%;
+    position: relative;
+}
+.main_list>li.one{
+    position: absolute;
+    top: 360px;
+    left: 710px;
+}
+.main_list>li.one1{
+    position: absolute;
+    top: 682px;
+    left: 745px;
+}
+.main_list>li.one2{
+    position: absolute;
+    top: 940px;
+    left: 745px;
+}
+.main_list>li.one3{
+    position: absolute;
+    top: 1200px;
+    left: 745px;
+}
+.main_list>li.two{
+    position: absolute;
+    top: 240px;
+    left: 500px;
+}
+.main_list>li.two1{
+    position: absolute;
+    top: 530px;
+    left: 500px;
+}
+.main_list>li.two01{
+    position: absolute;
+    top: 240px;
+    right: 530px;
+}
+.main_list>li.two12{
+    position: absolute;
+    top: 530px;
+    right: 530px;
+}
+.main_list>li.two23{
+    position: absolute;
+    top: 795px;
+    right: 530px;
+}
+.main_list>li.two33{
+    position: absolute;
+    top: 1060px;
+    right: 530px;
+}
+.main_list>li.two2{
+    position: absolute;
+    top: 795px;
+    left: 500px;
+}
+.main_list>li.two3{
+    position: absolute;
+    top: 1060px;
+    left: 500px;
+}
+.main_list>li.three{
+    position: absolute;
+    top: 120px;
+    left: 270px;
+}
+.main_list>li.three01{
+    position: absolute;
+    top: 120px;
+    right: 290px;
+}
+.main_list>li.three12{
+    position: absolute;
+    top: 410px;
+    right: 290px;
+}
+.main_list>li.three23{
+    position: absolute;
+    top: 670px;
+    right: 290px;
+}
+.main_list>li.three34{
+    position: absolute;
+    top: 940px;
+    right: 290px;
+}
+.main_list>li.three1{
+    position: absolute;
+    top: 410px;
+    left: 270px;
+}
+.main_list>li.three2{
+    position: absolute;
+    top: 670px;
+    left: 270px;
+}
+.main_list>li.three3{
+    position: absolute;
+    top: 940px;
+    left: 270px;
+}
+.main_list>li.four{
+    position: absolute;
+    top: 280px;
+    left: 50px;
+}
+.main_list>li.four01{
+    position: absolute;
+    top: 280px;
+    right: 60px;
+}
+.main_list>li.four12{
+    position: absolute;
+    top: 540px;
+    right: 60px;
+}
+.main_list>li.four22{
+    position: absolute;
+    top: 800px;
+    right: 60px;
+}
+.main_list>li.four33{
+    position: absolute;
+    top: 800px;
+    right: 60px;
+}
+.main_list>li.four1{
+    position: absolute;
+    top: 540px;
+    left: 20px;
+}
+.main_list>li.four2{
+    position: absolute;
+    top: 800px;
+    left: 55px;
+}
+/*footer部分*/
+.footer{
+    width: 100%;
+}
+.footer_top{
+    width: 100%;
+    margin-bottom: 30px;
+}
+.footer_nav{
+    border-top: 3px solid #f6ad3c;
+    width: 1189px;
+    margin: 60px auto;
+    overflow: hidden;
+}
+.footer_nav>li{
+    margin-top: 30px;
+    float: left;
+    font-size: 30px;
+    text-align: center;
+}
+.footer_nav>li>a{
+    padding:0px 84px;
+    text-align: center;
+}
+.footer_middle{
+    width: 100%;
+    height: 250px;
+    background-color: #979797;
+}
+.footer_main{
+    width: 1189px;
+    margin: 0px auto;
+    overflow: hidden;
+}
+.footer_bottom{
+    margin: 0px auto;
+    width: 500px;
+    text-align: center;
+    color: #dadada;
+    font-size: 12px;
+    margin-top: 28px;
+}
+.footer_main>li{
+    float: left;
+    width: 378px;
+    height: 150px;
+    border-right: 1px dotted #dadada;
+    text-align: center;
+    color: #dadada;
+    margin-top:30px;
+}
+.footer_main>li.none{
+    border-right: 1px dotted transparent;
+}
+.footer_main>li>dl>dt{
+    font-size: 18px;
+    margin: 10px 0;
+}
+.footer_main>li>dl>dd>a{
+    margin: 8px 0;
+    display: inline-block;
+}
+.footer_img{
+    overflow: hidden;
+    margin-top: 30px;
+}
+.footer_img_left{
+    margin-left: 116px;
+    color: #dadada;
+}
+.footer_img_right{
+    margin-right: 85px;
+}

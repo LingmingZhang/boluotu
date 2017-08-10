@@ -1,0 +1,122 @@
+.banner img{
+    width:10rem;
+}
+.change-main{
+    width:8.48rem;
+    margin:0 auto;
+    margin-top: 0.4266rem;
+}
+.change-list{
+    width:8.48rem;
+    margin:0 auto;
+    overflow: hidden;
+}
+.change-list li{
+    height:0.7066rem;
+    border-radius: 0.2266rem;
+    background: #f6ad3c;
+    width:1.56rem;
+    float: left;
+    line-height: 0.7066rem;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    font-family: FZLTTHK GBK10,"Microsoft YaHei", Arial, Helvetica, sans-serif;
+    font-size: 0.2710rem;
+    cursor: pointer;
+}
+.change-list .l1{
+    margin-left: 0.8533rem;
+}
+.change-list .l2{
+    margin-left: 1.1733rem;
+}
+.change-list .l3{
+    margin-left: 1.1733rem;
+}
+.change-list .active{
+    background: #fedc80;
+}
+.change-article{
+    width: 8.48rem;
+    margin:0 auto;
+    margin-top:0.4rem;
+}
+.change-article .l1 h1{
+    font-family: 方正兰亭黑简体,"Microsoft YaHei", Arial, Helvetica, sans-serif;
+    font-size: 0.3778rem;
+    color: #f6ad3c;
+    line-height: 0.5066rem;
+}
+.change-article .l1 p{
+    font-family: 方正兰亭黑简体,"Microsoft YaHei", Arial, Helvetica, sans-serif;
+    font-size: 0.1889rem;
+    color: #858484;
+    line-height: 0.3733rem;
+}
+.change-article .l1 span{
+    font-family: 方正兰亭黑简体,"Microsoft YaHei", Arial, Helvetica, sans-serif;
+    font-size: 0.2361rem;
+    color: #f6ad3c;
+}
+.change-article .l1 h2{
+    font-family: 方正兰亭黑简体,"Microsoft YaHei", Arial, Helvetica, sans-serif;
+    font-size: 0.2361rem;
+    color: #858484;
+    line-height: 0.4266rem;
+    margin-top: 0.32rem;
+}
+.change-article .l2 h1{
+    font-family: 方正兰亭黑简体,"Microsoft YaHei", Arial, Helvetica, sans-serif;
+    font-size: 0.3806rem;
+    color: #f6ad3c;
+    line-height: 0.6666rem;
+}
+.change-article .l2 p{
+    font-family: 方正兰亭黑简体,"Microsoft YaHei", Arial, Helvetica, sans-serif;
+    font-size: 0.2378rem;
+    color: #777777;
+    line-height: 0.4rem;
+}
+.change-article .l2 span{
+    font-family: 方正兰亭黑简体,"Microsoft YaHei", Arial, Helvetica, sans-serif;
+    font-size: 0.2378rem;
+    color: #f6ad3c;
+    line-height: 0.4rem;
+}
+.change-article .l3 .left{
+    width:5.48rem;
+}
+.change-article .left h1{
+    font-family: 方正兰亭黑简体,"Microsoft YaHei", Arial, Helvetica, sans-serif;
+    font-size: 0.3806rem;
+    color: #f6ad3c;
+    line-height: 0.6666rem;
+}
+.change-article .left p{
+    font-family: yuweij, "Microsoft YaHei", Arial, Helvetica, sans-serif;
+    font-size: 0.228rem;
+    line-height: 0.4666rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
